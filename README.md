@@ -11,10 +11,6 @@ My certificates
 
 ![](./Certificates/GCP.png)
 
-![](./Certificates/Golang.png)
-
-![](./Certificates/Pro%20Go.png)
-
 ![](./Certificates/GraphQL.png)
 
 ![](./Certificates/Java%20-%20Concurrency.png)
@@ -46,5 +42,9 @@ My certificates
 ![](./Certificates/Spring%20Boot.png)
 
 ![](./Certificates/Spring%20Cloud.png)
+
+![](./Certificates/Golang.png)
+
+![](./Certificates/Pro%20Go.png)
 
 ![](./Certificates/Statistics.png)

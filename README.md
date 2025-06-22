@@ -1,6 +1,8 @@
 # certificates
 My certificates
 
+![](./Certificates/OCP.png)
+
 ![](./Certificates/Coding%20interview.png)
 
 ![](./Certificates/Docer.png)
@@ -32,8 +34,6 @@ My certificates
 ![](./Certificates/Java%20-%20Microservices.png)
 
 ![](./Certificates/Java%20-%20recursion.png)
-
-![](./Certificates/OCP.png)
 
 ![](./Certificates/React+Spring.png)
 
